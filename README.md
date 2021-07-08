@@ -5,3 +5,4 @@ Kelas   : 6B
 
 Link Laporan
 https://drive.google.com/file/d/1NlaQ3p5RWCoGNrSMdm3aEOeqaKSlxdiC/view?usp=sharing
+# uas-laravel
